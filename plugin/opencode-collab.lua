@@ -1,0 +1,1 @@
+require('opencode-collab').setup()
